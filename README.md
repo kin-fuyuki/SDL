@@ -15,3 +15,6 @@ with README.md
 Enjoy!
 
 Sam Lantinga (slouken@libsdl.org)
+
+
+kin's fork
