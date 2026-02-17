@@ -1,4 +1,4 @@
-#SDL 3
+# SDL 3
 
 Simple DirectMedia Layer (SDL for short) is a cross-platform library
 designed to make it easy to write multi-media software, such as games
