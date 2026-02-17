@@ -1,3 +1,4 @@
+#SDL 3
 
 Simple DirectMedia Layer (SDL for short) is a cross-platform library
 designed to make it easy to write multi-media software, such as games
@@ -15,3 +16,5 @@ available in [LICENSE.txt](LICENSE.txt).
 Enjoy!
 
 Sam Lantinga (slouken@libsdl.org)
+
+kin's fork
